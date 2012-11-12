@@ -1,0 +1,36 @@
+.auth-login-yii{
+	padding: 5px;
+}
+
+.auth-big-yii{
+    text-decoration: none;
+	display: inline-block;
+	margin-right: 10px;
+	border: 1px solid #CCC;
+	border-bottom-color: #BBB;
+	padding: 10px;
+	background-color: white;
+	-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+	font-size: 14px;
+	line-height: 1;
+	color: #666;
+}
+
+.auth-medium-yii{
+	text-decoration: none;
+	display: inline-block;
+	margin-right: 10px;
+	font-size: 14px;
+	line-height: 1;
+	color: #666;
+}
+
+.auth-small-yii{
+    margin-right: 10px;
+}
+
+.auth-login-yii img {
+	border: none;
+}
